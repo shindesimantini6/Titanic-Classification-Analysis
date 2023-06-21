@@ -5,4 +5,5 @@ Trained a logistic regression and Random forest model to fit the titanic data of
 Requirements:
 
 Python 3.8 and above
+
 scikit-learn
